@@ -130,7 +130,7 @@ incase you want to build an executable application, if you use Visual Studio the
 <br>
 
 <img src="images/img_4.png" alt="Logo" width="600">
-<center><p>Conecting to another person</p></center>
+<center><p>Message decryption</p></center>
 <br>
 
 </center>
